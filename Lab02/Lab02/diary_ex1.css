@@ -1,0 +1,23 @@
+.content{
+    border: 4px solid blue;
+}
+header{
+	border: 4px solid green;
+	position: relative;
+}
+header h2{
+	border: 3px solid orange;
+}
+.entries{
+	border:	4px solid lime;
+}
+span{
+	border:	3px solid cyan
+ }
+
+p{
+	border: 2px solid gray;
+}
+#footer{
+	border:	4px solid magenta;
+}
