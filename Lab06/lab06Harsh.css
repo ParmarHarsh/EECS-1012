@@ -1,0 +1,26 @@
+.body{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.buttons{
+    background-color: red;
+    color: white;
+    width: 150px;
+    padding: auto;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons:hover {
+    background-color: black;
+    color: white;
+}
+
+#output{
+    margin-top: 50px;
+    font-size: 30px;
+}
